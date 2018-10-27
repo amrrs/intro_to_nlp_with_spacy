@@ -1,0 +1,9 @@
+name: intro_to_nlp_with_spacy
+channels:
+  - defaults
+dependencies:
+  - python=3
+  - jupyter
+  - pandas
+  - seaborn
+  - spacy
